@@ -24,3 +24,4 @@ Files built by Visual Studio
 *.pgd
 *.rsp
 *.sbr
+.gitignore.txt
