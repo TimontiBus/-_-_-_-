@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\79210\\Desktop\\01_CSHARP\\lesson1\\Task1\\Task1.csproj": {}
+    "C:\\Users\\79210\\Desktop\\Знакомство с языками прораммирования\\01_CSHARP\\lesson1\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\79210\\Desktop\\01_CSHARP\\lesson1\\Task1\\Task1.csproj": {
+    "C:\\Users\\79210\\Desktop\\Знакомство с языками прораммирования\\01_CSHARP\\lesson1\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\79210\\Desktop\\01_CSHARP\\lesson1\\Task1\\Task1.csproj",
+        "projectUniqueName": "C:\\Users\\79210\\Desktop\\Знакомство с языками прораммирования\\01_CSHARP\\lesson1\\Task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "C:\\Users\\79210\\Desktop\\01_CSHARP\\lesson1\\Task1\\Task1.csproj",
+        "projectPath": "C:\\Users\\79210\\Desktop\\Знакомство с языками прораммирования\\01_CSHARP\\lesson1\\Task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\79210\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\79210\\Desktop\\01_CSHARP\\lesson1\\Task1\\obj\\",
+        "outputPath": "C:\\Users\\79210\\Desktop\\Знакомство с языками прораммирования\\01_CSHARP\\lesson1\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\79210\\AppData\\Roaming\\NuGet\\NuGet.Config"
