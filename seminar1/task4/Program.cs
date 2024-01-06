@@ -25,7 +25,7 @@ if (num > 99)
 {
 	while (num > 999)
 	{
-		num /= 10;
+		num /= 10;   // вот это равно означает, что результат положим обратно в num --> (num = num / 10;)
 	}
 	Console.Write($"Third digit is {num % 10}");
 }
