@@ -2,3 +2,14 @@
 // является ли второе число кратным первому. Если второе число некратно первому,
 // то прорамма выводит остаток от деления.
 
+int first_num = 3;
+int second_num = 16;
+
+if (first_num % second_num == 0)
+{
+	Console.Write("Да");
+}
+else
+{
+	Console.Write($"Нет, {first_num % second_num}");
+}
