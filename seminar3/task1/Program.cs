@@ -50,17 +50,17 @@ ShowArray(array);
 
 // ShowArray(reverseArray);                                     
 
-void FindCountDigits(int[] array)
-{
-    int count = 0;
-    for (int i = 0; i < array.Length; i++)
-    {
-        if (array[i] % 10 == 1 && array[i] % 7 == 0)
-        {
-            count++;
-        }
-    }
-    Console.WriteLine(count);
-}
+// void FindCountDigits(int[] array)
+// {
+//     int count = 0;
+//     for (int i = 0; i < array.Length; i++)
+//     {
+//         if (array[i] % 10 == 1 && array[i] % 7 == 0)
+//         {
+//             count++;
+//         }
+//     }
+//     Console.WriteLine(count);
+// }
 
-FindCountDigits(array);
+// FindCountDigits(array);
